@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **-Neva Team-**
 
-- 👍 I'm working with [jojihatzz](https://github.com/jojihatzz)
-
 - ⚡ Fun fact: **Elephants can’t jump.**
 
 <h3 align="left">Connect with me:</h3>
