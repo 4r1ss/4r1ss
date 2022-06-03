@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm 4r1ss</h1>
 
 
-- 🔭 I’m currently working on **-Neva Team-**
 
-- ⚡ Fun fact: **Elephants can’t jump.**
 
 
 <p align="left">
