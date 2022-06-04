@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 4r1ss</h1>
+<h1 align="center">Hi 👋, I'm 4r1s</h1>
 - 🔭 Currently working on **Electron Templates**
 
 
