@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 4r1ss</h1>
-- 🔭 Currently working on **Electron Templates**
+- 🔭 Currently working on -Electron Templates-
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
